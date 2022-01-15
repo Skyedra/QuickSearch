@@ -1,6 +1,8 @@
 # QuickSearch
 Add a search box to the top of mantisbt pages.
 
+!(screenshot.png)
+
 It will redirect you to the search page with otherwise default parameters but the text filter applied.
 
 
