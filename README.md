@@ -8,7 +8,7 @@ It will redirect you to the search page with otherwise default parameters but th
 
 ## Installation
 
-1) Drop in plugins folder as normal
+1) Drop this repo into a new "QuickSearch" folder in plugins folder
 2) Activate in mantis settings panel
 3) I recommend setting priority to lowest (5) since this requests jquery and doing so can clobber jquery-cookie if that is used by other plugin
 
